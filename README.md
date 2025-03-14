@@ -1,1 +1,1 @@
-# devops-k8s-MIPT-2025
+# Hometasks K8S

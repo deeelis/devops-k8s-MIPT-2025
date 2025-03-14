@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: redis-config
+  namespace: zaitseva-hw3
+data:
+  REDIS_MODE: standalone
